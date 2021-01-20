@@ -1,0 +1,9 @@
+[Scheme]
+Name=yeti
+ColorCursor=#9ba8bb
+ColorForeground=#9ba8bb
+ColorBackground=#202326
+TabActivityColor=#bc5b4b
+ColorPalette=#202326;#bc4b4f;#4bbc97;#bc7b4b;#4b8bad;#bc5b4b;#678b8b;#9ba8bb;#434950;#d54f53;#4fd5a9;#d5884f;#4f9bc3;#d56a4f;#709b9b;#afbcc9
+ColorBold=#9ba8bb
+ColorBoldUseDefault=FALSE

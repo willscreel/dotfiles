@@ -1,0 +1,8 @@
+decorations none
+geometry 2x1
+icon_size 22 
+max_geometry 2x1
+parent_bg true
+transparent false
+icon_gravity SW
+no_shrink true

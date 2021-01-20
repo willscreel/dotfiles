@@ -1,0 +1,5 @@
+configuration {
+ modi: "drun";
+ theme: "yeti";
+ font: "Inter 12";
+ }
