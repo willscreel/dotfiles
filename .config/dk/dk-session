@@ -3,5 +3,4 @@ toggle-mon.sh
 ~/.fehbg
 picom &
 xautolock -time 5 -locker "i3lock-fancy-rapid 5 3" &
-redshift-temp.sh
 dbus-launch --exit-with-session dk
